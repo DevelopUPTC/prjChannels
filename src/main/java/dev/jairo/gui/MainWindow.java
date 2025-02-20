@@ -14,6 +14,8 @@ public class MainWindow extends JFrame {
         setDefaultCloseOperation( DO_NOTHING_ON_CLOSE );
         setResizable( true );
         setLayout( new BorderLayout());
+
+        //Esto esta por revisar
     }
 
     public void begin(){
